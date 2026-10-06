@@ -1,7 +1,4 @@
-
 #EXTM3U
 
-#EXTINF:-1 group-title="Meus Videos", Meu Video Curto
-#EXTVLCOPT:network-caching=1000
-
+#EXTINF:-1 group-title="Meus Videos", Meu Video mia02
 https://raw.githubusercontent.com/IzaquePereira/listateste_iptv/main/mia02.mp4
